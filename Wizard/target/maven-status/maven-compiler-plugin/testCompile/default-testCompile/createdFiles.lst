@@ -1,0 +1,7 @@
+com\wizard\Wizard\AppTest.class
+PageObjects\LoginPage.class
+BaseClass\BaseClass.class
+Constants\ConstantClass.class
+MainPackage\MainClass.class
+LoadingProperites\LoadingClass.class
+RoughPractice\RoughPrac.class
